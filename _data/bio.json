@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Kota Taharaguchi",
-    "label": "Master's Student",
-    "picture": "https://tkota0726.github.io/tkota0726.github.io/images/profile.jpg",
-    "email": "kotaha@taltech.ee",
-    "phone": "+372-5858-1516",
-    "website": "https://k-ta.club",
-    "summary": "I'm a master's student studying energy industory in Taltech in Estonia.I expect to graduate in Summer, 2019.",
+    "name": "Sambeet Mishra",
+    "label": "RESEARCHER",
+    "picture": "https://sambeetportfolio.github.io/sambeet_portfolio/images/profile.jpg",
+    "email": "sambeets@gmail.com",
+    "phone": "+372-5890-3996",
+    "website": "http://www.sambeetmishra.com/",
+    "summary": "Interpersonal Skills: Energetic and cheerful, Time management, Diligent & Team player, Calm",
     "location": {
       "address": "",
       "postalCode": "",
@@ -17,22 +17,22 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/tkota0726"
+        "username": "Sambeet",
+        "url": "http://github.com/Sambeeet"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "sambeet-mishra",
+        "url": "http://linkedin.com/in/sambeet-mishra"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
+        "username": "sambeet",
         "url": "http://twitter.com/changeme"
       },
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "sambeet",
         "url": "http://instagram.com/changeme"
       }
     ]
