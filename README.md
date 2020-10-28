@@ -1,2 +1,2 @@
-## A simple portfolio 
-#### Sambeet Mishra 
+## Portfolio of Sambeet Mishra
+> Inspired by open source Technofolio project
