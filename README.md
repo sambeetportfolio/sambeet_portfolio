@@ -1,2 +1,2 @@
 ## Portfolio of Sambeet Mishra
-> Inspired by open source Technofolio project
+> Inspired by open source Technofolios project
