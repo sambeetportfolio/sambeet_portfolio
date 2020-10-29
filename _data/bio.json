@@ -26,11 +26,6 @@
         "url": "http://linkedin.com/in/sambeet-mishra"
       },
       {
-        "network": "twitter",
-        "username": "sambeet",
-        "url": "http://twitter.com/changeme"
-      },
-      {
         "network": "instagram",
         "username": "sambeet",
         "url": "http://instagram.com/changeme"
@@ -47,13 +42,11 @@
     },
     {
       "name": "Machine Learning applications",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Power and Energy Systems",
-      "keywords": [
-      ]
+      "keywords": []
     }
   ],
   "skills": [
@@ -89,8 +82,7 @@
       "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
