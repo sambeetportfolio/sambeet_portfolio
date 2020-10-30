@@ -8,20 +8,7 @@
 // Customize the background color
 body {
   // background-color: #f2f2f2;;
-}
-
-// Customize the menubar color
-.ui.menu {
-  // background: $background-start;
-}
-
-// Customize the home page icon colors
-.icon-color {
-  // color: silver;
-  color: darken(lightsteelblue, 20%);
-}
-
-// animation
+  // animation
 
 @keyframes move_wave {
     0% {
@@ -92,3 +79,17 @@ body {
 .waveAnimation .waveBottom {
     animation: move_wave 15s linear infinite;
 }
+
+}
+
+// Customize the menubar color
+.ui.menu {
+  // background: $background-start;
+}
+
+// Customize the home page icon colors
+.icon-color {
+  // color: silver;
+  color: darken(lightsteelblue, 20%);
+}
+
