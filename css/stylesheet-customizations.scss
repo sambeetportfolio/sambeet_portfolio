@@ -21,6 +21,8 @@ body {
   color: darken(lightsteelblue, 20%);
 }
 
+// animation
+
 @keyframes move_wave {
     0% {
         transform: translateX(0) translateZ(0) scaleY(1)
